@@ -1,0 +1,447 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E1B14092-3692-4329-9DBB-397522E88781}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QLHotel</RootNamespace>
+    <AssemblyName>QLHotel</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Checkout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Checkout.Designer.cs">
+      <DependentUpon>Checkout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Doanhthu\Doanhthu.cs" />
+    <Compile Include="Doanhthu\DoanhThuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Doanhthu\DoanhThuForm.Designer.cs">
+      <DependentUpon>DoanhThuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditUserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditUserForm.Designer.cs">
+      <DependentUpon>EditUserForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hoadondichvu\Hoadondichvu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hoadondichvu\Hoadondichvu.Designer.cs">
+      <DependentUpon>Hoadondichvu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hoadondichvu\Service.cs" />
+    <Compile Include="Hoadonphong\Hoadonphong.cs" />
+    <Compile Include="Hoadonphong\HoadonphongForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hoadonphong\HoadonphongForm.Designer.cs">
+      <DependentUpon>HoadonphongForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hoadon\Hoadon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hoadon\Hoadon.Designer.cs">
+      <DependentUpon>Hoadon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hoadon\Hoadonclass.cs" />
+    <Compile Include="Hoadon\Tonghoadon.cs" />
+    <Compile Include="Kho\Hientatcathucpham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kho\Hientatcathucpham.Designer.cs">
+      <DependentUpon>Hientatcathucpham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kho\Kiemtranhapxuat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kho\Kiemtranhapxuat.Designer.cs">
+      <DependentUpon>Kiemtranhapxuat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kho\Nhapkho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kho\Nhapkho.Designer.cs">
+      <DependentUpon>Nhapkho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kho\Thucpham.cs" />
+    <Compile Include="Kho\Xuatkho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kho\Xuatkho.Designer.cs">
+      <DependentUpon>Xuatkho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kho\Xuatkhoclass.cs" />
+    <Compile Include="KH\AddCustomerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KH\AddCustomerForm.Designer.cs">
+      <DependentUpon>AddCustomerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KH\DeleteCustomerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KH\DeleteCustomerForm.Designer.cs">
+      <DependentUpon>DeleteCustomerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KH\EditCustomerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KH\EditCustomerForm.Designer.cs">
+      <DependentUpon>EditCustomerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KH\KH.cs" />
+    <Compile Include="KH\ShowFullCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KH\ShowFullCustomer.Designer.cs">
+      <DependentUpon>ShowFullCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainFormRoomAndGuest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainFormRoomAndGuest.Designer.cs">
+      <DependentUpon>MainFormRoomAndGuest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nhan Vien\CaLamForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nhan Vien\CaLamForm.Designer.cs">
+      <DependentUpon>CaLamForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nhan Vien\CheckInOutForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nhan Vien\CheckInOutForm.Designer.cs">
+      <DependentUpon>CheckInOutForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nhan Vien\ChucVu.cs" />
+    <Compile Include="Globals.cs" />
+    <Compile Include="my_DBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>my_DBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="my_DBDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>my_DBDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="NguoiDung.cs" />
+    <Compile Include="Nhan Vien\QuanLyNV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nhan Vien\QuanLyNV.Designer.cs">
+      <DependentUpon>QuanLyNV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Phòng\AddRoomForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Phòng\AddRoomForm.Designer.cs">
+      <DependentUpon>AddRoomForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Phòng\DeleteRoomForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Phòng\DeleteRoomForm.Designer.cs">
+      <DependentUpon>DeleteRoomForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Phòng\EditRoomForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Phòng\EditRoomForm.Designer.cs">
+      <DependentUpon>EditRoomForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Phòng\LoaiPhong.cs" />
+    <Compile Include="Phòng\Room.cs" />
+    <Compile Include="Phòng\ShowFullRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Phòng\ShowFullRoom.Designer.cs">
+      <DependentUpon>ShowFullRoom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="RegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegisterForm.Designer.cs">
+      <DependentUpon>RegisterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nhan Vien\ReportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nhan Vien\ReportForm.Designer.cs">
+      <DependentUpon>ReportForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nhan Vien\RoleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nhan Vien\RoleForm.Designer.cs">
+      <DependentUpon>RoleForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nhan Vien\XoaSuaNV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nhan Vien\XoaSuaNV.Designer.cs">
+      <DependentUpon>XoaSuaNV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MY_DB.cs" />
+    <Compile Include="Nhan Vien\NhanVien.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Nhan Vien\ThemNV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nhan Vien\ThemNV.Designer.cs">
+      <DependentUpon>ThemNV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThuChiForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThuChiForm.Designer.cs">
+      <DependentUpon>ThuChiForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Thẻ\AddCardHotelForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Thẻ\AddCardHotelForm.Designer.cs">
+      <DependentUpon>AddCardHotelForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Thẻ\Card.cs" />
+    <Compile Include="Nhan Vien\TiepTanForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nhan Vien\TiepTanForm.Designer.cs">
+      <DependentUpon>TiepTanForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Checkout.resx">
+      <DependentUpon>Checkout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doanhthu\DoanhThuForm.resx">
+      <DependentUpon>DoanhThuForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditUserForm.resx">
+      <DependentUpon>EditUserForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hoadondichvu\Hoadondichvu.resx">
+      <DependentUpon>Hoadondichvu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hoadonphong\HoadonphongForm.resx">
+      <DependentUpon>HoadonphongForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hoadon\Hoadon.resx">
+      <DependentUpon>Hoadon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kho\Hientatcathucpham.resx">
+      <DependentUpon>Hientatcathucpham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kho\Kiemtranhapxuat.resx">
+      <DependentUpon>Kiemtranhapxuat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kho\Nhapkho.resx">
+      <DependentUpon>Nhapkho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kho\Xuatkho.resx">
+      <DependentUpon>Xuatkho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KH\AddCustomerForm.resx">
+      <DependentUpon>AddCustomerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KH\DeleteCustomerForm.resx">
+      <DependentUpon>DeleteCustomerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KH\EditCustomerForm.resx">
+      <DependentUpon>EditCustomerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KH\ShowFullCustomer.resx">
+      <DependentUpon>ShowFullCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainFormRoomAndGuest.resx">
+      <DependentUpon>MainFormRoomAndGuest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nhan Vien\CaLamForm.resx">
+      <DependentUpon>CaLamForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nhan Vien\CheckInOutForm.resx">
+      <DependentUpon>CheckInOutForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nhan Vien\QuanLyNV.resx">
+      <DependentUpon>QuanLyNV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Phòng\AddRoomForm.resx">
+      <DependentUpon>AddRoomForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Phòng\DeleteRoomForm.resx">
+      <DependentUpon>DeleteRoomForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Phòng\EditRoomForm.resx">
+      <DependentUpon>EditRoomForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Phòng\ShowFullRoom.resx">
+      <DependentUpon>ShowFullRoom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegisterForm.resx">
+      <DependentUpon>RegisterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nhan Vien\ReportForm.resx">
+      <DependentUpon>ReportForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nhan Vien\RoleForm.resx">
+      <DependentUpon>RoleForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nhan Vien\XoaSuaNV.resx">
+      <DependentUpon>XoaSuaNV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Nhan Vien\ThemNV.resx">
+      <DependentUpon>ThemNV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThuChiForm.resx">
+      <DependentUpon>ThuChiForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Thẻ\AddCardHotelForm.resx">
+      <DependentUpon>AddCardHotelForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nhan Vien\TiepTanForm.resx">
+      <DependentUpon>TiepTanForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="my_DBDataSet.xsc">
+      <DependentUpon>my_DBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="my_DBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>my_DBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="my_DBDataSet.xss">
+      <DependentUpon>my_DBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="my_DBDataSet1.xsc">
+      <DependentUpon>my_DBDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="my_DBDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>my_DBDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="my_DBDataSet1.xss">
+      <DependentUpon>my_DBDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Picture\360_F_119115529_mEnw3lGpLdlDkfLgRcVSbFRuVl6sMDty.jpg" />
+    <Content Include="Picture\abstract-blue-geometric-shapes-background_1035-17545.jpg" />
+    <Content Include="Picture\background-đẹp-5-1024x597.jpg" />
+    <Content Include="Picture\1920x880_upload-website-pageimage--welcome-to-the-dolcevita-hotel-jagdhof--2_448_3840x1760.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Word">
+      <Guid>{00020905-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>8</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

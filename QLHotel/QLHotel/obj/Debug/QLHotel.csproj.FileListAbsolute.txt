@@ -1,0 +1,144 @@
+E:\Windows Form\Đồ Án\QLHotel\QLHotel\bin\Debug\QLHotel.exe.config
+E:\Windows Form\Đồ Án\QLHotel\QLHotel\bin\Debug\QLHotel.exe
+E:\Windows Form\Đồ Án\QLHotel\QLHotel\bin\Debug\QLHotel.pdb
+E:\Windows Form\Đồ Án\QLHotel\QLHotel\obj\Debug\QLHotel.csprojAssemblyReference.cache
+E:\Windows Form\Đồ Án\QLHotel\QLHotel\obj\Debug\QLHotel.LoginForm.resources
+E:\Windows Form\Đồ Án\QLHotel\QLHotel\obj\Debug\QLHotel.MainForm.resources
+E:\Windows Form\Đồ Án\QLHotel\QLHotel\obj\Debug\QLHotel.Properties.Resources.resources
+E:\Windows Form\Đồ Án\QLHotel\QLHotel\obj\Debug\QLHotel.csproj.GenerateResource.cache
+E:\Windows Form\Đồ Án\QLHotel\QLHotel\obj\Debug\QLHotel.csproj.CoreCompileInputs.cache
+E:\Windows Form\Đồ Án\QLHotel\QLHotel\obj\Debug\QLHotel.exe
+E:\Windows Form\Đồ Án\QLHotel\QLHotel\obj\Debug\QLHotel.pdb
+E:\Windows Form\Đồ Án\QLHotel\QLHotel\obj\Debug\QLHotel.ThemNV.resources
+E:\Windows Form\Đồ Án\QLHotel\QLHotel\QLHotel\bin\Debug\QLHotel.exe.config
+E:\Windows Form\Đồ Án\QLHotel\QLHotel\QLHotel\bin\Debug\QLHotel.exe
+E:\Windows Form\Đồ Án\QLHotel\QLHotel\QLHotel\bin\Debug\QLHotel.pdb
+E:\Windows Form\Đồ Án\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.csprojAssemblyReference.cache
+E:\Windows Form\Đồ Án\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.XoaSuaNV.resources
+E:\Windows Form\Đồ Án\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.LoginForm.resources
+E:\Windows Form\Đồ Án\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.MainForm.resources
+E:\Windows Form\Đồ Án\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.Properties.Resources.resources
+E:\Windows Form\Đồ Án\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.ThemNV.resources
+E:\Windows Form\Đồ Án\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.csproj.GenerateResource.cache
+E:\Windows Form\Đồ Án\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.csproj.CoreCompileInputs.cache
+E:\Windows Form\Đồ Án\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.exe
+E:\Windows Form\Đồ Án\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.pdb
+E:\Windows Form\Đồ Án\QLHotel ver 2\QLHotel\QLHotel\QLHotel\bin\Debug\QLHotel.exe.config
+E:\Windows Form\Đồ Án\QLHotel ver 2\QLHotel\QLHotel\QLHotel\bin\Debug\QLHotel.exe
+E:\Windows Form\Đồ Án\QLHotel ver 2\QLHotel\QLHotel\QLHotel\bin\Debug\QLHotel.pdb
+E:\Windows Form\Đồ Án\QLHotel ver 2\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.csprojAssemblyReference.cache
+E:\Windows Form\Đồ Án\QLHotel ver 2\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.QuanLyNV.resources
+E:\Windows Form\Đồ Án\QLHotel ver 2\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.RegisterForm.resources
+E:\Windows Form\Đồ Án\QLHotel ver 2\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.RoleForm.resources
+E:\Windows Form\Đồ Án\QLHotel ver 2\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.XoaSuaNV.resources
+E:\Windows Form\Đồ Án\QLHotel ver 2\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.LoginForm.resources
+E:\Windows Form\Đồ Án\QLHotel ver 2\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.MainForm.resources
+E:\Windows Form\Đồ Án\QLHotel ver 2\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.Properties.Resources.resources
+E:\Windows Form\Đồ Án\QLHotel ver 2\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.ThemNV.resources
+E:\Windows Form\Đồ Án\QLHotel ver 2\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.csproj.GenerateResource.cache
+E:\Windows Form\Đồ Án\QLHotel ver 2\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.csproj.CoreCompileInputs.cache
+E:\Windows Form\Đồ Án\QLHotel ver 2\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.exe
+E:\Windows Form\Đồ Án\QLHotel ver 2\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.pdb
+E:\Windows Form\Đồ Án\QLHotel ver 2\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.CaLamForm.resources
+E:\Windows Form\Đồ Án\QLHotel ver 2\QLHotel\QLHotel\QLHotel\obj\Debug\QLHotel.CheckInOutForm.resources
+E:\Windows Form\Đồ Án\QLHotel ver 3\QLHotel\bin\Debug\QLHotel.exe.config
+E:\Windows Form\Đồ Án\QLHotel ver 3\QLHotel\bin\Debug\QLHotel.exe
+E:\Windows Form\Đồ Án\QLHotel ver 3\QLHotel\bin\Debug\QLHotel.pdb
+E:\Windows Form\Đồ Án\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.csprojAssemblyReference.cache
+E:\Windows Form\Đồ Án\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.CaLamForm.resources
+E:\Windows Form\Đồ Án\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.CheckInOutForm.resources
+E:\Windows Form\Đồ Án\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.QuanLyNV.resources
+E:\Windows Form\Đồ Án\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.RegisterForm.resources
+E:\Windows Form\Đồ Án\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.RoleForm.resources
+E:\Windows Form\Đồ Án\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.XoaSuaNV.resources
+E:\Windows Form\Đồ Án\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.LoginForm.resources
+E:\Windows Form\Đồ Án\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.MainForm.resources
+E:\Windows Form\Đồ Án\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.Properties.Resources.resources
+E:\Windows Form\Đồ Án\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.ThemNV.resources
+E:\Windows Form\Đồ Án\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.csproj.GenerateResource.cache
+E:\Windows Form\Đồ Án\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.csproj.CoreCompileInputs.cache
+E:\Windows Form\Đồ Án\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.exe
+E:\Windows Form\Đồ Án\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.pdb
+E:\Windows Form\Đồ Án\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.ReportForm.resources
+E:\Windows Form\Đồ Án\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.csproj.ResolveComReference.cache
+D:\Chương trình đại học\Năm 2 Kì 2\Lập trình trên window\QLHotel ver 3\QLHotel\bin\Debug\QLHotel.exe.config
+D:\Chương trình đại học\Năm 2 Kì 2\Lập trình trên window\QLHotel ver 3\QLHotel\bin\Debug\QLHotel.exe
+D:\Chương trình đại học\Năm 2 Kì 2\Lập trình trên window\QLHotel ver 3\QLHotel\bin\Debug\QLHotel.pdb
+D:\Chương trình đại học\Năm 2 Kì 2\Lập trình trên window\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.csprojAssemblyReference.cache
+D:\Chương trình đại học\Năm 2 Kì 2\Lập trình trên window\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.csproj.ResolveComReference.cache
+D:\Chương trình đại học\Năm 2 Kì 2\Lập trình trên window\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.Checkout.resources
+D:\Chương trình đại học\Năm 2 Kì 2\Lập trình trên window\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.DoanhThuForm.resources
+D:\Chương trình đại học\Năm 2 Kì 2\Lập trình trên window\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.Hoadondichvu.resources
+D:\Chương trình đại học\Năm 2 Kì 2\Lập trình trên window\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.HoadonphongForm.resources
+D:\Chương trình đại học\Năm 2 Kì 2\Lập trình trên window\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.Hoadon.resources
+D:\Chương trình đại học\Năm 2 Kì 2\Lập trình trên window\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.Hientatcathucpham.resources
+D:\Chương trình đại học\Năm 2 Kì 2\Lập trình trên window\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.Kiemtranhapxuat.resources
+D:\Chương trình đại học\Năm 2 Kì 2\Lập trình trên window\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.Nhapkho.resources
+D:\Chương trình đại học\Năm 2 Kì 2\Lập trình trên window\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.Xuatkho.resources
+D:\Chương trình đại học\Năm 2 Kì 2\Lập trình trên window\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.AddCustomerForm.resources
+D:\Chương trình đại học\Năm 2 Kì 2\Lập trình trên window\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.DeleteCustomerForm.resources
+D:\Chương trình đại học\Năm 2 Kì 2\Lập trình trên window\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.EditCustomerForm.resources
+D:\Chương trình đại học\Năm 2 Kì 2\Lập trình trên window\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.ShowFullCustomer.resources
+D:\Chương trình đại học\Năm 2 Kì 2\Lập trình trên window\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.MainFormRoomAndGuest.resources
+D:\Chương trình đại học\Năm 2 Kì 2\Lập trình trên window\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.CaLamForm.resources
+D:\Chương trình đại học\Năm 2 Kì 2\Lập trình trên window\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.CheckInOutForm.resources
+D:\Chương trình đại học\Năm 2 Kì 2\Lập trình trên window\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.QuanLyNV.resources
+D:\Chương trình đại học\Năm 2 Kì 2\Lập trình trên window\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.AddRoomForm.resources
+D:\Chương trình đại học\Năm 2 Kì 2\Lập trình trên window\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.DeleteRoomForm.resources
+D:\Chương trình đại học\Năm 2 Kì 2\Lập trình trên window\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.EditRoomForm.resources
+D:\Chương trình đại học\Năm 2 Kì 2\Lập trình trên window\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.ShowFullRoom.resources
+D:\Chương trình đại học\Năm 2 Kì 2\Lập trình trên window\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.RegisterForm.resources
+D:\Chương trình đại học\Năm 2 Kì 2\Lập trình trên window\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.ReportForm.resources
+D:\Chương trình đại học\Năm 2 Kì 2\Lập trình trên window\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.RoleForm.resources
+D:\Chương trình đại học\Năm 2 Kì 2\Lập trình trên window\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.XoaSuaNV.resources
+D:\Chương trình đại học\Năm 2 Kì 2\Lập trình trên window\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.LoginForm.resources
+D:\Chương trình đại học\Năm 2 Kì 2\Lập trình trên window\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.MainForm.resources
+D:\Chương trình đại học\Năm 2 Kì 2\Lập trình trên window\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.Properties.Resources.resources
+D:\Chương trình đại học\Năm 2 Kì 2\Lập trình trên window\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.ThemNV.resources
+D:\Chương trình đại học\Năm 2 Kì 2\Lập trình trên window\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.AddCardHotelForm.resources
+D:\Chương trình đại học\Năm 2 Kì 2\Lập trình trên window\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.csproj.GenerateResource.cache
+D:\Chương trình đại học\Năm 2 Kì 2\Lập trình trên window\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.csproj.CoreCompileInputs.cache
+D:\Chương trình đại học\Năm 2 Kì 2\Lập trình trên window\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.exe
+D:\Chương trình đại học\Năm 2 Kì 2\Lập trình trên window\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.pdb
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.csprojAssemblyReference.cache
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.csproj.ResolveComReference.cache
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.exe
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.pdb
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\bin\Debug\QLHotel.exe.config
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\bin\Debug\QLHotel.exe
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\bin\Debug\QLHotel.pdb
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.Checkout.resources
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.DoanhThuForm.resources
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.Hoadondichvu.resources
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.HoadonphongForm.resources
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.Hoadon.resources
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.Hientatcathucpham.resources
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.Kiemtranhapxuat.resources
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.Nhapkho.resources
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.Xuatkho.resources
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.AddCustomerForm.resources
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.DeleteCustomerForm.resources
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.EditCustomerForm.resources
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.ShowFullCustomer.resources
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.MainFormRoomAndGuest.resources
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.CaLamForm.resources
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.CheckInOutForm.resources
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.QuanLyNV.resources
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.AddRoomForm.resources
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.DeleteRoomForm.resources
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.EditRoomForm.resources
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.ShowFullRoom.resources
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.RegisterForm.resources
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.ReportForm.resources
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.RoleForm.resources
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.XoaSuaNV.resources
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.LoginForm.resources
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.MainForm.resources
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.Properties.Resources.resources
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.ThemNV.resources
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.AddCardHotelForm.resources
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.csproj.GenerateResource.cache
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.csproj.CoreCompileInputs.cache
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.ThuChiForm.resources
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.TiepTanForm.resources
+E:\Windows Form\Đồ Án\QLHotel_ver_5\QLHotel ver 3\QLHotel\obj\Debug\QLHotel.EditUserForm.resources
